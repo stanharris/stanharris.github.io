@@ -1,24 +1,22 @@
 ---
 layout: page
-title: Hello World!
+title: In The Beginning...
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+TBD: Just getting this site started using Jekyll:
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
-## Update Author Attributes
+## This is the ole H2 header line
 
-In `_config.yml` remember to specify your own data:
+Start of a paragraph with `code highlighting` and other text:
     
-    title : My Blog =)
+    Put some text here
     
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+    And even include
+      some text
+      that is indented.
 
 The theme should reference these variables whenever needed.
     
