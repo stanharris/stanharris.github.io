@@ -20,12 +20,12 @@ Start of a paragraph with `code highlighting` and other text:
 
 The theme should reference these variables whenever needed.
     
-## Sample Posts
+## One more header here
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+This is even more text you can put here to get things started.
+And of course you can add a line that includes `highlight code or commands` for emphasis.
 
-    $ rm -rf _posts/core-samples
+    $ put your fav command here.
 
 Here's a sample "posts list".
 
